@@ -1,10 +1,9 @@
-# Project Title
+# My Home Assistant 
 
-Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Some addons und views that I created for my own Home Assistant instance.
 
 ## Getting Started
 
@@ -12,20 +11,11 @@ An in-depth paragraph about your project and overview of use.
 
 * Home Assistant
 
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 
 Contributors names and contact info
 
 ex. Daniel Schapmann
-
 
 ## License
 
